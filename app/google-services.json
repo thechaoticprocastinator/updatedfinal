@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440307214490",
+    "firebase_url": "https://rohanintern.firebaseio.com",
+    "project_id": "rohanintern",
+    "storage_bucket": "rohanintern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440307214490:android:c97a72e703f987c94e5723",
+        "android_client_info": {
+          "package_name": "com.example.rohanintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440307214490-come50d083u621j7ortljckl2qfkguuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohanintern",
+            "certificate_hash": "665bffd10d95cfb291766dd438c864d93ac50f58"
+          }
+        },
+        {
+          "client_id": "440307214490-je16ir2tohoqcrpj1m2neq4r76uo2v0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZ05sykK1r_n8AH0JVNzaGTKUxsAVq8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440307214490-je16ir2tohoqcrpj1m2neq4r76uo2v0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
