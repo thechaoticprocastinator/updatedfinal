@@ -24,6 +24,7 @@ public class Main4Activity extends AppCompatActivity {
         b3 = (Button)findViewById(R.id.button10);
         b4 = (Button) findViewById(R.id.button40);
         b5 = (Button) findViewById(R.id.lib);
+        b6 = (Button) findViewById(R.id.button100);
 
         b.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -77,6 +78,14 @@ public class Main4Activity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent inte = new Intent(Main4Activity.this,Main10Activity.class);
+                startActivity(inte);
+
+            }
+        });
+        b6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent inte = new Intent(Main4Activity.this,Main11Activity.class);
                 startActivity(inte);
 
             }

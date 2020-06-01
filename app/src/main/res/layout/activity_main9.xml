@@ -148,17 +148,6 @@
 
                 <EditText
                     android:backgroundTint="#000000"
-                    android:id="@+id/wed1"
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:textColor="#000"
-                    android:textColorHint="#000"
-                    android:inputType="text"
-                    tools:ignore="Autofill,LabelFor" />
-
-                <EditText
-                    android:backgroundTint="#000000"
                     android:id="@+id/thu1"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
